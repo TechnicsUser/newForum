@@ -1,0 +1,5 @@
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YetAnotherForum.NET\Bin\YAF.Classes.Config.dll
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Classes\YAF.Classes.Config\obj\Release\YAF.Classes.Config.csprojAssemblyReference.cache
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Classes\YAF.Classes.Config\obj\Release\YAF.Classes.Config.csproj.CoreCompileInputs.cache
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Classes\YAF.Classes.Config\obj\Release\YAF.Classes.Config.csproj.CopyComplete
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Classes\YAF.Classes.Config\obj\Release\YAF.Classes.Config.dll
