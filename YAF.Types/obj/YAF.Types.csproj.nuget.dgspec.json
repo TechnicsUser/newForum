@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SS\\Downloads\\YAFNET-2.2.4.17-2\\YAFNET-2.2.4.17\\yafsrc\\YAF.Types\\YAF.Types.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SS\\Downloads\\YAFNET-2.2.4.17-2\\YAFNET-2.2.4.17\\yafsrc\\YAF.Types\\YAF.Types.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SS\\Downloads\\YAFNET-2.2.4.17-2\\YAFNET-2.2.4.17\\yafsrc\\YAF.Types\\YAF.Types.csproj",
+        "projectName": "YAF.Types",
+        "projectPath": "C:\\Users\\SS\\Downloads\\YAFNET-2.2.4.17-2\\YAFNET-2.2.4.17\\yafsrc\\YAF.Types\\YAF.Types.csproj",
+        "packagesPath": "C:\\Users\\SS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SS\\Downloads\\YAFNET-2.2.4.17-2\\YAFNET-2.2.4.17\\yafsrc\\YAF.Types\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\SS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net451"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net451": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net451": {
+          "dependencies": {
+            "ServiceStack.OrmLite": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

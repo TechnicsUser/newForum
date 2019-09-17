@@ -1,0 +1,7 @@
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YetAnotherForum.NET\Bin\YAF.Providers.dll
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YetAnotherForum.NET\Bin\YAF.Providers.pdb
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Providers\obj\Release\YAF.Providers.csprojAssemblyReference.cache
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Providers\obj\Release\YAF.Providers.csproj.CoreCompileInputs.cache
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Providers\obj\Release\YAF.Providers.csproj.CopyComplete
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Providers\obj\Release\YAF.Providers.dll
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Providers\obj\Release\YAF.Providers.pdb

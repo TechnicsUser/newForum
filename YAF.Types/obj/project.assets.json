@@ -1,0 +1,308 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {
+      "ServiceStack.Common/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Interfaces": "5.1.0",
+          "ServiceStack.Text": "5.1.0"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Common.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/5.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Interfaces.dll": {}
+        }
+      },
+      "ServiceStack.OrmLite/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Common": "5.1.0"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.OrmLite.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.OrmLite.dll": {}
+        }
+      },
+      "ServiceStack.Text/5.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.1/win": {
+      "ServiceStack.Common/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Interfaces": "5.1.0",
+          "ServiceStack.Text": "5.1.0"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Common.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/5.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Interfaces.dll": {}
+        }
+      },
+      "ServiceStack.OrmLite/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Common": "5.1.0"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.OrmLite.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.OrmLite.dll": {}
+        }
+      },
+      "ServiceStack.Text/5.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.1/win-x64": {
+      "ServiceStack.Common/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Interfaces": "5.1.0",
+          "ServiceStack.Text": "5.1.0"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Common.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/5.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Interfaces.dll": {}
+        }
+      },
+      "ServiceStack.OrmLite/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Common": "5.1.0"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.OrmLite.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.OrmLite.dll": {}
+        }
+      },
+      "ServiceStack.Text/5.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.1/win-x86": {
+      "ServiceStack.Common/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Interfaces": "5.1.0",
+          "ServiceStack.Text": "5.1.0"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Common.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/5.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Interfaces.dll": {}
+        }
+      },
+      "ServiceStack.OrmLite/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Common": "5.1.0"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.OrmLite.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.OrmLite.dll": {}
+        }
+      },
+      "ServiceStack.Text/5.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceStack.Common/5.1.0": {
+      "sha512": "K07M1Vb2JsHkE4g0e1UDLhjkB70R9aEDQB7oFfzBG1/DPPy10qBNBS8pM6PlnrZyQvOqJGQvIfieA2mD9TN8Wg==",
+      "type": "package",
+      "path": "servicestack.common/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/ServiceStack.Common.dll",
+        "lib/net45/ServiceStack.Common.xml",
+        "lib/netstandard2.0/ServiceStack.Common.deps.json",
+        "lib/netstandard2.0/ServiceStack.Common.dll",
+        "lib/netstandard2.0/ServiceStack.Common.xml",
+        "servicestack.common.5.1.0.nupkg.sha512",
+        "servicestack.common.nuspec"
+      ]
+    },
+    "ServiceStack.Interfaces/5.1.0": {
+      "sha512": "wMGh7bfZh1U0VrwGAAPMVXucs2O5vZew2GjyOMlCBJfrljrsJbQfP1kx0vw8HZz/gAOxByaMSaaPoX0A2oKbIw==",
+      "type": "package",
+      "path": "servicestack.interfaces/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/ServiceStack.Interfaces.dll",
+        "lib/net45/ServiceStack.Interfaces.xml",
+        "lib/netstandard2.0/ServiceStack.Interfaces.deps.json",
+        "lib/netstandard2.0/ServiceStack.Interfaces.dll",
+        "lib/netstandard2.0/ServiceStack.Interfaces.xml",
+        "servicestack.interfaces.5.1.0.nupkg.sha512",
+        "servicestack.interfaces.nuspec"
+      ]
+    },
+    "ServiceStack.OrmLite/5.1.0": {
+      "sha512": "D/a5rGeMRt4Lqz37owcXewUPiX6cyUd9p+8jP4vL/y3xovu1WmrqPD9XY5GpyawK3BKhdlsVdnfF9zsx5XGEbA==",
+      "type": "package",
+      "path": "servicestack.ormlite/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/ServiceStack.OrmLite.dll",
+        "lib/net45/ServiceStack.OrmLite.xml",
+        "lib/netstandard2.0/ServiceStack.OrmLite.deps.json",
+        "lib/netstandard2.0/ServiceStack.OrmLite.dll",
+        "lib/netstandard2.0/ServiceStack.OrmLite.xml",
+        "servicestack.ormlite.5.1.0.nupkg.sha512",
+        "servicestack.ormlite.nuspec"
+      ]
+    },
+    "ServiceStack.Text/5.1.0": {
+      "sha512": "4Zcv/RjXxflsPGPkOR1MaUp+nSgVAbRWliWg7kOMcsGood+NT9pAgWTA9lZeABBt/YP0nVttQWfkVebv7s40hQ==",
+      "type": "package",
+      "path": "servicestack.text/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/ServiceStack.Text.dll",
+        "lib/net45/ServiceStack.Text.xml",
+        "lib/netstandard2.0/ServiceStack.Text.deps.json",
+        "lib/netstandard2.0/ServiceStack.Text.dll",
+        "lib/netstandard2.0/ServiceStack.Text.xml",
+        "servicestack.text.5.1.0.nupkg.sha512",
+        "servicestack.text.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.1": [
+      "ServiceStack.OrmLite >= 5.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SS\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SS\\Downloads\\YAFNET-2.2.4.17-2\\YAFNET-2.2.4.17\\yafsrc\\YAF.Types\\YAF.Types.csproj",
+      "projectName": "YAF.Types",
+      "projectPath": "C:\\Users\\SS\\Downloads\\YAFNET-2.2.4.17-2\\YAFNET-2.2.4.17\\yafsrc\\YAF.Types\\YAF.Types.csproj",
+      "packagesPath": "C:\\Users\\SS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SS\\Downloads\\YAFNET-2.2.4.17-2\\YAFNET-2.2.4.17\\yafsrc\\YAF.Types\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\SS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net451"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net451": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net451": {
+        "dependencies": {
+          "ServiceStack.OrmLite": {
+            "target": "Package",
+            "version": "[5.1.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

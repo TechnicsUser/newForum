@@ -1,0 +1,7 @@
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YetAnotherForum.NET\Bin\YAF.Data.MsSql.dll
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YetAnotherForum.NET\Bin\YAF.Data.MsSql.pdb
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Data.MsSql\obj\Debug\YAF.Data.MsSql.csprojAssemblyReference.cache
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Data.MsSql\obj\Debug\YAF.Data.MsSql.csproj.CoreCompileInputs.cache
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Data.MsSql\obj\Debug\YAF.Data.MsSql.csproj.CopyComplete
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Data.MsSql\obj\Debug\YAF.Data.MsSql.dll
+C:\Users\SS\Downloads\YAFNET-2.2.4.17-2\YAFNET-2.2.4.17\yafsrc\YAF.Data.MsSql\obj\Debug\YAF.Data.MsSql.pdb
